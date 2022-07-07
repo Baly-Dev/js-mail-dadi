@@ -2,16 +2,42 @@
   "name": "",
   "isOrdered": true,
   "folders": {
-    "css": {
-      "name": "css",
+    "dadi": {
+      "name": "dadi",
       "isOrdered": true,
-      "folders": {},
+      "folders": {
+        "css": {
+          "name": "css",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        },
+        "js": {
+          "name": "js",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        }
+      },
       "files": {}
     },
-    "js": {
-      "name": "js",
+    "mail": {
+      "name": "mail",
       "isOrdered": true,
-      "folders": {},
+      "folders": {
+        "css": {
+          "name": "css",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        },
+        "js": {
+          "name": "js",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        }
+      },
       "files": {}
     }
   },
