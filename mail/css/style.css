@@ -1,0 +1,7 @@
+main{
+    height: 100vh;
+}
+
+#messageBox{
+    display: none;
+}
